@@ -19,6 +19,8 @@ nav {
 }
 
 aside {
+    display: flex;
+    flex-direction: column;
     grid-area: aside;
     background-color: #3dc0c6;
     padding: 2em;
